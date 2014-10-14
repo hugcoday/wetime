@@ -2,9 +2,6 @@
   "name": "wetime",
   "description": "project created by thinkjs",
   "version": "0.1.0",
-  "scripts":{
-   "start":  "node www/index.js"
-  },
   "author": {},
   "dependencies": {
     "thinkjs": "*"
